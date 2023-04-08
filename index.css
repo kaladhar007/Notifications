@@ -1,0 +1,27 @@
+.total_div {
+  padding: 10px;
+  text-align: center;
+  justify-content: space-around;
+}
+.note_div {
+  display: flex;
+  direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.primary {
+  background-color: blue;
+}
+.success {
+  background-color: rgb(7, 247, 7);
+}
+.warning {
+  background-color: rgb(231, 231, 16);
+}
+.danger {
+  background-color: red;
+}
+.image {
+  height: 20px;
+  width: 20px;
+}
